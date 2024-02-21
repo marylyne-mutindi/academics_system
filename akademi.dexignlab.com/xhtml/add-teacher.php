@@ -1,41 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from akademi.dexignlab.com/xhtml/add-teacher.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 20 Feb 2024 14:00:20 GMT -->
-<head>
-    	
-    <meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="author" content="DexignLab" >
-	<meta name="robots" content="" >
-	<meta name="keywords" content="school, school admin, education, academy, admin dashboard, college, college management, education management, institute, school management, school management system, student management, teacher management, university, university management" >
-	<meta name="description" content="Discover Akademi - the ultimate admin dashboard and Bootstrap 5 template. Specially designed for professionals, and for business. Akademi provides advanced features and an easy-to-use interface for creating a top-quality website with School and Education Dashboard" >
-	<meta property="og:title" content="Akademi : School and Education Management Admin Dashboard Template" >
-	<meta property="og:description" content="Akademi - the ultimate admin dashboard and Bootstrap 5 template. Specially designed for professionals, and for business. Akademi provides advanced features and an easy-to-use interface for creating a top-quality website with School and Education Dashboard">
-	<meta property="og:image" content="social-image.html" >
-	<meta name="format-detection" content="telephone=no">
-
-	<!-- Mobile Specific -->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<!-- Page Title Here -->
-	<title>Akademi : School and Education Management Admin Dashboard Template</title>
-
-<!-- FAVICONS ICON -->
-	<link rel="shortcut icon" type="image/png" href="images/favicon.png" >
-	<link href="vendor/wow-master/css/libs/animate.css" rel="stylesheet">
-	<link href="vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">
-	
-	<link href="vendor/bootstrap-datepicker-master/css/bootstrap-datepicker.min.css" rel="stylesheet">
-	
-	 <link href="vendor/datatables/css/jquery.dataTables.min.css" rel="stylesheet">
-	<!--swiper-slider-->
-	
-	<!-- Style css -->
-    <link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-	
-</head>
+<?php
+include ("folder/head.php");
+?>
 <body>
 
     <!--*******************
@@ -1321,16 +1289,12 @@
             Content body end
         ***********************************-->
 		
-		<div class="footer out-footer style-2">
-			<div class="copyright">
-				<p>Copyright © Designed &amp; Developed by <a href="https://dexignlab.com/" target="_blank">DexignLab</a> 2023</p>
-			</div>
-		</div> 
+		<?php 
+		include ("folder/footer.php");
+		?>
 
       
-        <!--**********************************
-            Footer end
-        ***********************************-->
+       
 
 		<!--**********************************
            Support ticket button start
@@ -1416,5 +1380,4 @@ $("#imageUpload").change(function() {
 
 </body>
 
-<!-- Mirrored from akademi.dexignlab.com/xhtml/add-teacher.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 20 Feb 2024 14:02:00 GMT -->
 </html>
