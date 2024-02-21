@@ -88,80 +88,9 @@
 							</li>
 						</ul>
 					</li>
-					<li><a class="has-arrow " href="javascript:void(0);" aria-expanded="false">
-						<i class="material-icons"> assessment </i>
-							<span class="nav-text">Charts</span>
-						</a>
-						<ul aria-expanded="false">
-							<li><a href="chart-flot.php">Flot</a></li>
-							<li><a href="chart-morris.php">Morris</a></li>
-							<li><a href="chart-chartjs.php">Chartjs</a></li>
-							<li><a href="chart-chartist.php">Chartist</a></li>
-							<li><a href="chart-sparkline.php">Sparkline</a></li>
-							<li><a href="chart-peity.php">Peity</a></li>
-						</ul>
-					</li>
-					<li><a class="has-arrow " href="javascript:void(0);" aria-expanded="false">
-							
-							<i class="material-icons"> favorite </i>
-							<span class="nav-text">Bootstrap</span>
-						</a>
-						<ul aria-expanded="false">
-							<li><a href="ui-accordion.php">Accordion</a></li>
-							<li><a href="ui-alert.php">Alert</a></li>
-							<li><a href="ui-badge.php">Badge</a></li>
-							<li><a href="ui-button.php">Button</a></li>
-							<li><a href="ui-modal.php">Modal</a></li>
-							<li><a href="ui-button-group.php">Button Group</a></li>
-							<li><a href="ui-list-group.php">List Group</a></li>
-							<li><a href="ui-card.php">Cards</a></li>
-							<li><a href="ui-carousel.php">Carousel</a></li>
-							<li><a href="ui-dropdown.php">Dropdown</a></li>
-							<li><a href="ui-popover.php">Popover</a></li>
-							<li><a href="ui-progressbar.php">Progressbar</a></li>
-							<li><a href="ui-tab.php">Tab</a></li>
-							<li><a href="ui-typography.php">Typography</a></li>
-							<li><a href="ui-pagination.php">Pagination</a></li>
-							<li><a href="ui-grid.php">Grid</a></li>
-
-						</ul>
-					</li>
-					<li><a class="has-arrow " href="javascript:void(0);" aria-expanded="false">
-							<i class="material-icons"> extension </i>
-							<span class="nav-text">Plugins</span>
-						</a>
-						<ul aria-expanded="false">
-							<li><a href="uc-select2.html">Select 2</a></li>
-							<li><a href="uc-nestable.html">Nestedable</a></li>
-							<li><a href="uc-noui-slider.html">Noui Slider</a></li>
-							<li><a href="uc-sweetalert.html">Sweet Alert</a></li>
-							<li><a href="uc-toastr.html">Toastr</a></li>
-							<li><a href="map-jqvmap.html">Jqv Map</a></li>
-							<li><a href="uc-lightgallery.html">Light Gallery</a></li>
-						</ul>
-					</li>
-					<li><a class="has-arrow " href="javascript:void(0);" aria-expanded="false">
-							<i class="material-icons"> widgets </i>
-							<span class="nav-text">Widget</span>
-						</a>
-						<ul aria-expanded="false">
-							<li><a href="widget-chart.php">Chart</a></li>
-							<li><a href="widget-card.php">Card</a></li>
-							<li><a href="widget-list.php">List</a></li>
-						</ul>
-					</li>
-					<li><a class="has-arrow " href="javascript:void(0);" aria-expanded="false">
-							<i class="material-icons"> insert_drive_file </i>
-							<span class="nav-text">Forms</span>
-						</a>
-						<ul aria-expanded="false">
-							<li><a href="form-element.php">Form Elements</a></li>
-							<li><a href="form-wizard.php">Wizard</a></li>
-							<li><a href="form-ckeditor.php">CkEditor</a></li>
-							<li><a href="form-pickers.php">Pickers</a></li>
-							<li><a href="form-validation.php">Form Validate</a></li>
-						</ul>
-					</li>
+					
+			
+				
 					<li><a class="has-arrow " href="javascript:void(0);" aria-expanded="false">
 							<i class="material-icons"> table_chart </i>
 							<span class="nav-text">Table</span>
@@ -176,8 +105,8 @@
 							<span class="nav-text">Pages</span>
 						</a>
 						<ul aria-expanded="false">
-							<li><a href="page-login.html">Login</a></li>
-							<li><a href="page-register.html">Register</a></li>
+							<li><a href="page-login.php">Login</a></li>
+							<li><a href="page-register.php">Register</a></li>
 							<li><a class="has-arrow" href="javascript:void(0);" aria-expanded="false">Error</a>
 								<ul aria-expanded="false">
 									<li><a href="page-error-400.html">Error 400</a></li>
@@ -194,7 +123,7 @@
 				</ul>
 				<div class="copyright">
 					<p><strong>School Admission Dashboard</strong></p>
-					<p class="fs-12">Made with <span class="heart"></span> by DexignLab</p>
+					<p class="fs-12">Made with <span class="heart"></span>Designs by Marylyne</p>
 				</div>
 			</div>
         </div>
