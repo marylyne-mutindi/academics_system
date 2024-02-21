@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from akademi.dexignlab.com/xhtml/activity.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 20 Feb 2024 14:04:26 GMT -->
 <head>
     	
     <!-- All Meta -->
@@ -37,9 +36,7 @@
 </head>
 <body>
 
-    <!--*******************
-        Preloader start
-    ********************-->
+    <!--Preloader start-->
 	 	
     <div id="preloader">
 	  <div class="loader">
@@ -53,18 +50,12 @@
 			
 		</div>
 	</div>
-    <!--*******************
-        Preloader end
-    ********************-->
+    <!-- Preloader end-->
 
-    <!--**********************************
-        Main wrapper start
-    ***********************************-->
+    <!--Main wrapper start-->
     <div id="main-wrapper">
 	
-        <!--**********************************
-            Nav header start
-        ***********************************-->
+        <!--Nav header start-->
 		<div class="nav-header">
             <a href="index.html" class="brand-logo">
 				<svg class="logo-abbr" width="40" height="40" viewBox="0 0 48 54" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -96,13 +87,9 @@
                 </div>
             </div>
         </div>
-        <!--**********************************
-            Nav header end
-        ***********************************-->
+        <!-- Nav header end-->
 		
-		<!--**********************************
-            Chat box start
-        ***********************************-->
+		<!--Chat box start-->
 		<div class="chatbox">
 			<div class="chatbox-close"></div>
 			<div class="custom-tab-1">
@@ -607,13 +594,9 @@
 				</div>
 			</div>
 		</div>
-		<!--**********************************
-            Chat box End
-        ***********************************-->
+		<!--Chat box End-->
 		
-		<!--**********************************
-            Header start
-        ***********************************-->
+		<!-- Header start-->
 		<div class="header">
             <div class="header-content">
                 <nav class="navbar navbar-expand">
