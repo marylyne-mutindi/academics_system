@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from akademi.dexignlab.com/xhtml/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 20 Feb 2024 14:02:32 GMT -->
 <head>
     <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -2341,14 +2340,9 @@
         <!--**********************************
             Content body end
         ***********************************-->
-		<!--**********************************
-			Footer start
-		***********************************-->
-		<div class="footer footer-outer">
-			<div class="copyright">
-				<p>Copyright © Designed &amp; Developed by <a href="https://dexignlab.com/" target="_blank">DexignLab</a> 2023</p>
-			</div>
-		</div>
+		<?php
+		include ('folder/footer.php');
+		?>
 
 	</div>
 
